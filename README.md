@@ -12,7 +12,7 @@ Classify the data
 
 ### Implementation
 
-The model is created to classify the data. The model predicts the malicious and benign data
+The implementation is performed using R language. The model is created to classify the data. The model predicts the malicious and benign data
 
 Model one uses 80% of the data for training and 20% of the data to test
 
